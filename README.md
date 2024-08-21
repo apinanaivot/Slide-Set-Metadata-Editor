@@ -2,6 +2,10 @@
 
 A simple GUI tool for batch editing metadata of image files, particularly useful for processing sets of slides.
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/apinanaivot/Slide-Set-Metadata-Editor/main/Screenshot.jpg" width="550" title="IKEA 3D Model Batch Downloader">
+</p>
+
 ## Features
 
 - Open multiple image files (JPG, JPEG, PNG, TIF, TIFF)
